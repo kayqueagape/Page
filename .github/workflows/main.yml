@@ -1,7 +1,5 @@
 name: Generate Datas
 
-run: echo "KEY=VALUE" >>$GITHUB_OUTPUT
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
