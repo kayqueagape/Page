@@ -27,6 +27,7 @@
     <a href = "www.linkedin.com/in/kayque-ágape-002aa0283">
       <img width="25" src="linkedin (1).svg">
     </a>
+    ![Snake animation](https://github.com/kayqueagape/kayqueagape/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-![Snake animation](https://github.com/kayqueagape/kayqueagape/blob/output/github-contribution-grid-snake.svg)
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=kayqueagape&repo=kayqueagape&theme=react)](https://github.com/kayqueagape/kayqueagape)
