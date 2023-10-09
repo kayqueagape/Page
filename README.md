@@ -28,5 +28,5 @@
       <img width="25" src="linkedin (1).svg">
     </a>
 </div>
-![Snake animation](https://github.com/kayqueagape/kayqueagape/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=kayqueagape&repo=kayqueagape&theme=react)](https://github.com/kayqueagape/kayqueagape)
+
+   ![Snake animation](https://github.com/kayqueagape/kayqueagape/blob/output/github-contribution-grid-snake.svg)
