@@ -24,7 +24,7 @@
     <a href = "mailto: kayque.agapec@gmail.com">
       <img width="30" src="gmail (1).svg">
     </a>
-    <a href = "https://https://https://www.linkedin.com/in/kayque-%C3%A1gape-002aa0283////">
+    <a href = "https://https://www.linkedin.com/in/kayque-ágape-002aa0283////">
       <img width="25" src="linkedin (1).svg">
     </a>
 </div>
