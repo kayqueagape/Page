@@ -28,5 +28,5 @@
       <img width="25" src="linkedin (1).svg">
     </a>
 </div>
-
+ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
    ![Snake animation](https://github.com/kayqueagape/kayqueagape/blob/output/github-contribution-grid-snake.svg)
