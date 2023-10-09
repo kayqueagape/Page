@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Kayque Ágape
 
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kayqueagape&show_icons=true&theme=tokyonight"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueagape&layout=compact"/>
+<div align="center">
+  <img  height="300em" src="https://github-readme-stats.vercel.app/api?username=kayqueagape&show_icons=true&theme=tokyonight"/>
+  
 </div>
 <br>
 
